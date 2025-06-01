@@ -1,12 +1,43 @@
-# React + Vite
+# 🍎 Apple Store Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect, clean clone of the [Apple India Store](https://www.apple.com/in/store),  
+built by **Maaz Hussain** using React + Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Features
 
-## Expanding the ESLint configuration
+✅ React + Vite frontend  
+✅ Fully responsive layout  
+✅ Apple logo + centered nav bar with Font Awesome icons  
+✅ Hero banner section with featured product  
+✅ Promo grid for iPhone, Mac, iPad, Watch, AirPods  
+✅ Clean modern CSS styling  
+✅ Placeholder or locally hosted images for stable performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🚀 Live Demo
+
+👉 **[Deploy on Netlify or Vercel]**
+
+*(Add your link here once deployed)*
+
+---
+
+### 🛠 Tech Stack
+
+- React + Vite
+- CSS (no frameworks)
+- Font Awesome (for icons)
+- Unsplash / Local images (for hero + promos)
+
+---
+
+### 📦 How to Run Locally
+
+```bash
+git clone https://github.com/YOUR_USERNAME/apple-store-clone.git
+cd apple-store-clone
+npm install
+npm run dev
