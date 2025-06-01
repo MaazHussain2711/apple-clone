@@ -1,4 +1,4 @@
-# 🍎 Apple Store Clone
+#  Apple Store Clone
 
 A pixel-perfect, clean clone of the [Apple India Store](https://www.apple.com/in/store),  
 built by **Maaz Hussain** using React + Vite.
