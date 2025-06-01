@@ -15,13 +15,6 @@ built by **Maaz Hussain** using React + Vite.
 ✅ Clean modern CSS styling  
 ✅ Placeholder or locally hosted images for stable performance
 
----
-
-### 🚀 Live Demo
-
-👉 **[Deploy on Netlify or Vercel]**
-
-*(Add your link here once deployed)*
 
 ---
 
@@ -30,7 +23,7 @@ built by **Maaz Hussain** using React + Vite.
 - React + Vite
 - CSS (no frameworks)
 - Font Awesome (for icons)
-- Unsplash / Local images (for hero + promos)
+- Local images (for hero + promos)
 
 ---
 
